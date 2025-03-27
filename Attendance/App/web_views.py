@@ -34,3 +34,8 @@ def signIn(request):
         else:
             return HttpResponse('<h1>Login Failed')
     return render(request, 'login.html')
+
+def signOut(request):
+    logout(request)
+    print("=======User Successfully Logged Out=======")
+    return render(request, 'home.html')
