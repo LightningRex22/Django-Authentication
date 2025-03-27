@@ -5,6 +5,9 @@ The Student Attendance Management System is a standalone web-based application b
 
 ## 🚀 Features
 Student Attendance Tracking: Mark and manage student attendance efficiently.
+
 Faculty Authentication: Secure login and authentication for faculty members.
+
 Attendance Reports: Generate exportable reports in PDF and XLSX formats.
+
 Analytics: Visualize attendance data with detailed insights.
